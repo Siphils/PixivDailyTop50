@@ -1,6 +1,10 @@
 # PixivDailyTop50
 A spider for Pixiv Daily Top 50  
 
+## **Need the following libs**  
+* Requests
+* BeautifulSoup
+
 ## Usage  
 Open `main.py` file.  
 Then input your personal Pixiv's username and password.  
