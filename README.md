@@ -8,3 +8,7 @@ And then what you should do is waiting the spider download all the images from P
 
 ## Shortcoming  
 If there are more than one image, the program will show failure message in the terminal.
+
+
+## Thanks  
+Thanks [@_Kazusa](http://www.cnblogs.com/fightfordream/p/6421498.html) for his (or her?) help.
