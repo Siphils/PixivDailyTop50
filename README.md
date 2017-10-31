@@ -5,8 +5,8 @@ A spider for Pixiv Daily Top 50
 * Requests
 * BeautifulSoup
 
-## Usage  
-Open `main.py` file.  
+## Usage  
+`python main.py` file.  
 Then input your personal Pixiv's username and password.  
 And then what you should do is waiting the spider download all the images from Pixiv's daily TOP50.
 
